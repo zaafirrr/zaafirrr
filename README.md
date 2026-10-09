@@ -5,12 +5,12 @@
 **Service Desk Analyst · AI, Cloud & Cybersecurity**  
 London, UK
 
-<a href="https://www.linkedin.com/in/zaafir-exe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:zaafir796@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/zaafir-exe/" title="LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:zaafir796@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/gilbarbara/logos/37a6b807fd71c622efea27a9309b5d4edc792969/logos/google-gmail-2020.svg" height="30" alt="Gmail" /></a>
 
 </div>
 
----
 
 ## About me
 
@@ -20,7 +20,7 @@ My background is in technology, software development, web design and cybersecuri
 
 I'm most interested in where **AI, automation, cybersecurity and cloud** meet, and how they can improve business processes, strengthen security and solve real problems.
 
----
+
 
 ## What I do
 
@@ -41,7 +41,7 @@ I'm most interested in where **AI, automation, cybersecurity and cloud** meet, a
   </tr>
 </table>
 
----
+
 
 ## Tech stack
 
@@ -108,7 +108,7 @@ I'm most interested in where **AI, automation, cybersecurity and cloud** meet, a
 
 </details>
 
----
+
 
 ## My journey
 
@@ -133,7 +133,7 @@ I'm most interested in where **AI, automation, cybersecurity and cloud** meet, a
   </tr>
 </table>
 
----
+
 
 ## What's next
 
@@ -145,7 +145,7 @@ I'm most interested in where **AI, automation, cybersecurity and cloud** meet, a
 
 My long-term goal is a career across **AI & automation, cybersecurity, cloud and emerging technologies**, growing both technically and professionally.
 
----
+
 
 ## Let's connect
 
