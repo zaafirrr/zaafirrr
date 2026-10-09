@@ -2,7 +2,7 @@
 
 # Hi, I'm Zaafir 👋
 
-**Service Desk Analyst · AI, Cloud & Cybersecurity**  
+**Service Desk Analyst · AI & Automation Apprentice**  
 London, UK
 
 <a href="https://www.linkedin.com/in/zaafir-exe/" title="LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" /></a>
@@ -14,7 +14,7 @@ London, UK
 
 ## About me
 
-I'm a **Service Desk Analyst at Zinath Solutions**, supporting users and clients across a range of IT environments. My work covers Microsoft 365, Azure, Entra ID, troubleshooting, documentation, and contributing to wider IT and security projects.
+I'm a **Service Desk Analyst** and **AI & Automation Apprentice at Zinath Solutions**, supporting users and clients across a range of IT environments. My work covers Microsoft 365, Azure, Entra ID, troubleshooting, documentation, and contributing to wider IT and security projects.
 
 My background is in technology, software development, web design and cybersecurity, with a **D\*D\*** in the BTEC Level 3 National Extended Diploma in IT.
 
