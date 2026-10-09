@@ -1,72 +1,100 @@
+<div align="center">
+
 # Hi, I'm Zaafir 👋
 
-IT Professional · Cloud, Security & Automation  
-Based in London 🇬🇧 · Currently on an AI & Automation apprenticeship 🎓
+**IT Professional · Cloud, Security & Automation**  
+London, UK
+
+<a href="https://www.linkedin.com/in/zaafir-exe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:zaafir796@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
-## 🧠 About
+## About me
 
-- 💼 Working in IT at **Zinath Solutions Limited**, a managed service provider: service desk, troubleshooting, Microsoft 365 and Entra ID administration, endpoint management and documentation
-- 📧 Working on **email security**: DMARC, SPF and DKIM setup and email authentication projects
-- 🌐 Helping with **website development** for the business
-- 🤖 Interested in AI applied to real IT problems: automated workflows, AI agents and low-code tools
-- 🔐 Building my knowledge of cloud security and identity on Microsoft platforms
+I work in IT at **Zinath Solutions Limited**, a managed service provider, helping businesses keep their Microsoft 365, user accounts, devices and email secure and running smoothly.
+
+Alongside work, I'm doing an **AI & Automation apprenticeship**, learning how to use AI and automation to make IT simpler.
 
 ---
 
-## 🚀 Projects
+## What I do
 
-Projects in automation, security, Microsoft cloud, Python and web development are in progress. They'll be pinned below as they're finished.
-
----
-
-## 🛠️ Skills
-
-### 🔹 Cloud & Identity
-
-<img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" />
-
-*Microsoft 365 · Entra ID · Intune · Azure (hands-on)*
-
-### 🔹 Security
-
-*DMARC · SPF · DKIM · Email security · Identity and endpoint security*
-
-### 🔹 AI & Automation
-
-*Microsoft Copilot · Power Automate · AI agents · Low-code automation (hands-on and learning)*
-
-### 🔹 Development
-
-<img src="https://skillicons.dev/icons?i=py,html,git,github,vscode" alt="Python, HTML, Git, GitHub, VS Code" />
-
-*Web development · Python scripting (hands-on)*
-
-### 🔹 IT Operations & Tools
-
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-
-*Service desk · Troubleshooting · IT administration · Excel · Access*
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>☁️ Cloud & Identity</b><br/><br/>
+      Managing Microsoft 365, Entra ID user accounts and Intune devices.
+    </td>
+    <td width="33%" valign="top">
+      <b>🔐 Email Security</b><br/><br/>
+      Setting up DMARC, SPF and DKIM to protect domains from spoofing.
+    </td>
+    <td width="33%" valign="top">
+      <b>🛠️ IT Support</b><br/><br/>
+      Service desk, troubleshooting and keeping systems documented.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📜 Certifications & Education
+## Tech stack
 
-- **Microsoft Certified: Azure AI Fundamentals** (AI-901)
-- **EasyDMARC Certification**
-- **Linux Foundations**, HackPath Bootcamp
-- **BTEC Level 3 National Extended Diploma in IT**: D\*D
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,py,html,git,github,linux,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure,py,html,git,github,linux,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=azure,py,html,git,github,linux,vscode" alt="Azure, Python, HTML, Git, GitHub, Linux, VS Code" />
+</picture>
+
+<details>
+<summary><b>See full skills</b></summary>
+<br/>
+
+| Area | Use at work | Hands-on |
+|:--|:--|:--|
+| Cloud & Identity | Microsoft 365, Entra ID, Intune | Azure |
+| Security | DMARC, SPF, DKIM, email security | Identity and endpoint security |
+| AI & Automation | | Copilot, Power Automate |
+| Development | Web development | Python, HTML, Git |
+| IT Operations | Service desk, troubleshooting, administration | |
+| Data | Excel | Access |
+
+</details>
 
 ---
 
-## 📫 Contact
+## My journey
 
-🤝 **Always happy to connect!**
-
-- **Email**: [zaafir796@gmail.com](mailto:zaafir796@gmail.com)
-- **LinkedIn**: [linkedin.com/in/zaafir-exe](https://www.linkedin.com/in/zaafir-exe/)
+```mermaid
+timeline
+    Education : BTEC Level 3 Extended Diploma in IT - D*D
+    Certified : Azure AI Fundamentals
+              : EasyDMARC
+              : Linux Foundations
+    Today     : IT at Zinath Solutions
+              : AI and Automation Apprenticeship
+```
 
 ---
 
-*Always learning · Always building 🔁*
+## What's next
+
+> [!TIP]
+> **Currently learning:** AI agents · Low-code automation · Cloud security · Python
+
+> [!NOTE]
+> **Projects:** I'm building projects in automation, security and cloud. They'll be pinned below as I finish them.
+
+---
+
+## Let's connect
+
+I'm always happy to chat about IT, automation and security. Find me on [LinkedIn](https://www.linkedin.com/in/zaafir-exe/) or email [zaafir796@gmail.com](mailto:zaafir796@gmail.com).
+
+<div align="center">
+<br/>
+<sub><i>Always learning · Always building</i></sub>
+</div>
