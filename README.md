@@ -2,7 +2,7 @@
 
 # Hi, I'm Zaafir 👋
 
-**Service Desk Analyst · AI & Automation Apprentice**  
+**Service Desk Analyst · AI & Automation Apprentice**<br/>
 London, UK
 
 <a href="https://www.linkedin.com/in/zaafir-exe/" title="LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" /></a>
